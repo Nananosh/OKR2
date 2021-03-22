@@ -1,0 +1,16 @@
+C:\Users\nanan\RiderProjects\OKR\OKR\bin\Debug\net5.0\OKR.exe
+C:\Users\nanan\RiderProjects\OKR\OKR\bin\Debug\net5.0\OKR.deps.json
+C:\Users\nanan\RiderProjects\OKR\OKR\bin\Debug\net5.0\OKR.runtimeconfig.json
+C:\Users\nanan\RiderProjects\OKR\OKR\bin\Debug\net5.0\OKR.runtimeconfig.dev.json
+C:\Users\nanan\RiderProjects\OKR\OKR\bin\Debug\net5.0\OKR.dll
+C:\Users\nanan\RiderProjects\OKR\OKR\bin\Debug\net5.0\ref\OKR.dll
+C:\Users\nanan\RiderProjects\OKR\OKR\bin\Debug\net5.0\OKR.pdb
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.csprojAssemblyReference.cache
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.AssemblyInfoInputs.cache
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.AssemblyInfo.cs
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.csproj.CoreCompileInputs.cache
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.dll
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\ref\OKR.dll
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.pdb
+C:\Users\nanan\RiderProjects\OKR\OKR\obj\Debug\net5.0\OKR.genruntimeconfig.cache
